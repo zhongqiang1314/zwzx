@@ -1,1 +1,1 @@
-# zwzx 
+#zwzx public static void main(){}
